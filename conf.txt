@@ -1,4 +1,9 @@
 
-/home/Mal Sape
+/home/Mal Sape .gitignore
+
+
+
+
+
 
 

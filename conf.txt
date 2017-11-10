@@ -1,3 +1,10 @@
+/home/user-Pc .gitignore
+
+
+
+
+
+
 
 /home/Mal Sape .gitignore
 
@@ -5,5 +12,7 @@
 
 
 
+=======
+>>>>>>> 07b8036884ec177d0c6ecb53904e510bfb3e7d25
 
 

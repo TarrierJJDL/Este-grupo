@@ -1,7 +1,6 @@
+/home/user-Pc .gitignore
 
 
-
-/home/Marc
 
 
 
